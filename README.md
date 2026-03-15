@@ -5,8 +5,8 @@
 ```js
 const Guillermina = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript,],
-  tools: [Node, Docker,VisualStudioCode],
+  code: [Javascript,Python],
+  tools: [Power bi,Excel, VisualStudioCode],
 
 }
 ```
